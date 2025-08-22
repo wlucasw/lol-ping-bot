@@ -1,0 +1,15 @@
+.vscode/
+.history/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.DS_Store
+node_modules/
+Thumbs.db
+.env
