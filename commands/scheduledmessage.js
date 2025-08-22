@@ -25,7 +25,7 @@ const job = (interaction, client) =>
 
 const init = async (interaction, client) => {
   const response = await interaction.reply({
-    content: "Scheduled message started!",
+    content: "Message programmé !",
     withResponse: true,
   });
   job(interaction, client).start();
